@@ -33,8 +33,8 @@ public class CreateController {
 		ResponseCreate data = new ResponseCreate();
 
         /// NEED TO BE CHANGED
-        String token = "b490cc8042fd76c6cc43b615606cdd87";
-        String domainName = "http://167.99.13.147/cieionline/cieionline/";
+        String token = "token";
+        String domainName = "ip";
 
         /// REST RETURNED VALUES FORMAT
         String restformat = "xml"; //Also possible in Moodle 2.2 and later: 'json'
